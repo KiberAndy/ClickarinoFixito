@@ -1,4 +1,4 @@
-[English] **(На русском ниже)**
+# [English] **(На русском ниже)**
 
 # ClickarinoFixito 🖱️✨
 
@@ -32,7 +32,7 @@ We'd love to hear from you! Please report any bugs or suggest improvements by op
 
 ---
 
-[Русский]
+# [Русский]
 
 # ClickarinoFixito 🖱️✨
 
