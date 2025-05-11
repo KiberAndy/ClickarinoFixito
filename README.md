@@ -29,6 +29,10 @@ It's a straightforward utility, laser-focused on performance, designed to bring 
 4.  Right-click the tray icon to access settings, enable/disable, or exit.
 5.  Customize delays and excluded processes in the settings dialog or directly in `config.ini` (located in the same folder as the .exe).
 
+**Known Issues:**
+
+*   **XP's Explorer Icon Hides & Seeks:** On Windows XP, the program icon might play hide-and-seek in Windows Explorer (you won't see it on the .exe file itself). But don't worry, it's definitely there chilling in your system tray where it counts!
+
 **Found a Bug? Got an Idea?**
 
 We'd love to hear from you! Please report any bugs or suggest improvements by opening an [Issue](../../issues).
@@ -65,6 +69,10 @@ We'd love to hear from you! Please report any bugs or suggest improvements by op
 3.  Запусти `ClickarinoFixito.exe`.
 4.  Кликни правой кнопкой мыши по иконке в трее, чтобы получить доступ к настройкам, включить/отключить или выйти.
 5.  Настраивай задержки и исключаемые процессы в диалоге настроек или напрямую в файле `config.ini` (находится в той же папке, что и .exe).
+
+**Известные проблемы:**
+
+*   **Прятки Иконки на XP в Проводнике:** На Windows XP иконка программы может играть в прятки в Проводнике Windows (то есть, вы не увидите её на самом файле `.exe`). Но не волнуйтесь, она точно на месте и чилит в системном трее, где и должна быть!
 
 **Нашёл баг? Есть идея?**
 
